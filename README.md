@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Praveen787
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Terraform , NewRelic 
-- 💞️ I’m looking to collaborate on JAVA , javascript , angular 
+- 🌱 I’m currently learning Terraform, Google Cloud , 
+- 💞️ I’m looking to collaborate on JAVA, javascript, Angular2+, NodeJs, Helm3, Docker, K8s
 - 📫 How to reach me ...
 
 <!---
